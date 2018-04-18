@@ -1,5 +1,4 @@
 // Created by Brett Fazio
-// Able to do * / + and -
 // Evaluation of infix expression without the use of any objects/classes
 // Just does integers, but can easily do doubles just by changing my v[]
 // to type double.
